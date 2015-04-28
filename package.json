@@ -25,5 +25,11 @@
   "bugs": {
     "url": "https://github.com/frenchie4111/mocha-describe-directory/issues"
   },
-  "homepage": "https://github.com/frenchie4111/mocha-describe-directory"
+  "homepage": "https://github.com/frenchie4111/mocha-describe-directory",
+  "dependencies": {
+    "callsite": "^1.0.0",
+    "chai": "^2.3.0",
+    "load-from-directory": "^1.0.2",
+    "underscore": "^1.8.3"
+  }
 }
