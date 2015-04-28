@@ -1,0 +1,29 @@
+{
+  "name": "mocha-describe-directory",
+  "version": "1.0.0",
+  "description": "Mocha utility that allows you to describe a directory that contains a suites tests, for organizing test suites",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin git@github.com:frenchie4111/mocha-describe-directory.git"
+  },
+  "keywords": [
+    "Mocha",
+    "desribe",
+    "bdd",
+    "test",
+    "suite",
+    "organizing",
+    "directory",
+    "dir"
+  ],
+  "author": "Mike Lyons <mdl0394@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frenchie4111/mocha-describe-directory/issues"
+  },
+  "homepage": "https://github.com/frenchie4111/mocha-describe-directory"
+}
