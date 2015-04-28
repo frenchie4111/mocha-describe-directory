@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git remote add origin git@github.com:frenchie4111/mocha-describe-directory.git"
+    "url": "git@github.com:frenchie4111/mocha-describe-directory.git"
   },
   "keywords": [
     "Mocha",
